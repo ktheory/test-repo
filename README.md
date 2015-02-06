@@ -12,7 +12,6 @@ g
 h
 i
 j
-sesame
 k
 l
 m
