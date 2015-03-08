@@ -1,3 +1,3 @@
 # A test repo
 
-Hello kickstarter!
+Hello world!
